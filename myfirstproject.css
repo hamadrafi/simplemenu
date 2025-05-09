@@ -1,0 +1,24 @@
+html{
+    font-size: 22px;
+    scroll-behavior: smooth;
+}
+body{
+    max-width:800px;
+    max-height:100vh ;
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+th,tr,td{
+    border: 2px solid rgb(0, 0, 0);
+    padding: 0.5rem;
+    border-collapse: separate;
+    font-family: 'Courier New';
+}
+input{
+    padding: 7px;
+    font-size: 15px;
+}
+fieldset{
+    border: 1px solid black;
+}
